@@ -11,3 +11,5 @@ Plotly was built using Python and the Django framework, with a front end using J
 ## Plotly.js
 [The open source JavaScript graphing library that powers plotly] (https://plot.ly/javascript/)
 
+## Plotly on GitHub
+[Plotly Organization] (https://github.com/plotly/)
