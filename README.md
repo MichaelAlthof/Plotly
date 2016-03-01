@@ -6,5 +6,5 @@ Plotly was built using Python and the Django framework, with a front end using J
 [D3.js] (https://en.wikipedia.org/wiki/D3.js)
 D3.js, HTML and CSS. Files are hosted on Amazon S3
 
-
-##[Plotly API libraries] https://plot.ly/api/
+## Libraries
+[Plotly API libraries] https://plot.ly/api/
