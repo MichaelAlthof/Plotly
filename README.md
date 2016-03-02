@@ -16,3 +16,7 @@ Plotly was built using Python and the Django framework, with a front end using J
 
 ## Example 1 from this repository
 [volcano] (http://quantlet.github.io/Plotly/volcano.html)
+
+## Example 2 from this repository
+[diamonds] (http://quantlet.github.io/Plotly/diamonds.html)
+
