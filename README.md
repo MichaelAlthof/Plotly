@@ -23,3 +23,5 @@ Plotly was built using Python and the Django framework, with a front end using J
 ### Example 3 from this repository
 [heatmap1] (http://quantlet.github.io/Plotly/heatmap1.html)
 
+### Example 4 from this repository
+[MVAcarrankings_plotly] (http://quantlet.github.io/Plotly/MVAcarrankings_plotly.html)
