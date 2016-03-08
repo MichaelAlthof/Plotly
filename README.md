@@ -23,6 +23,6 @@ Plotly was built using Python and the Django framework, with a front end using J
 
 [MVAcarrankings_plotly] (http://quantlet.github.io/Plotly/MVAcarrankings_plotly.html)
 
-[MVAcarrankings_plotly:MVA] (http://quantlet.github.io/Plotly/qnet_mva_plotly.html)
+[MVAQnetClusKmeans_plotly:MVA] (http://quantlet.github.io/Plotly/qnet_mva_plotly.html)
 
 [MVAQnetClusKmeans_plotly:BCS] (http://quantlet.github.io/Plotly/qnet_bcs_plotly.html)
