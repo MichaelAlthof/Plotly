@@ -14,10 +14,10 @@ Plotly was built using Python and the Django framework, with a front end using J
 ## Plotly on GitHub
 [Plotly Organization] (https://github.com/plotly/)
 
-## Examples from this repository and from [MVA-Plotly] (https://github.com/QuantLet/MVA-Plotly)
-- [volcano] (http://quantlet.github.io/Plotly/volcano.html)
-- [diamonds] (http://quantlet.github.io/Plotly/diamonds.html)
-- [heatmap1] (http://quantlet.github.io/Plotly/heatmap1.html)
-- [MVAcarrankings_plotly] (http://quantlet.github.io/Plotly/MVAcarrankings_plotly.html)
-- [MVAQnetClusKmeans_plotly:MVA] (http://quantlet.github.io/Plotly/qnet_mva_plotly.html)
-- [MVAQnetClusKmeans_plotly:BCS] (http://quantlet.github.io/Plotly/qnet_bcs_plotly.html)
+## Examples from this repository and from [MVA-Plotly] (https://github.com/d3akula/MVA-Plotly)
+- [volcano] (http://d3akula.github.io/Plotly/volcano.html)
+- [diamonds] (http://d3akula.github.io/Plotly/diamonds.html)
+- [heatmap1] (http://d3akula.github.io/Plotly/heatmap1.html)
+- [MVAcarrankings_plotly] (http://d3akula.github.io/Plotly/MVAcarrankings_plotly.html)
+- [MVAQnetClusKmeans_plotly:MVA] (http://d3akula.github.io/Plotly/qnet_mva_plotly.html)
+- [MVAQnetClusKmeans_plotly:BCS] (http://d3akula.github.io/Plotly/qnet_bcs_plotly.html)
