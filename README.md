@@ -14,7 +14,7 @@ Plotly was built using Python and the Django framework, with a front end using J
 ## Plotly on GitHub
 [Plotly Organization](https://github.com/plotly/)
 
-## Examples from this repository and from [MVA-Plotly](../MVA-Plotly)
+## Examples from this repository and from [MVA-Plotly](https://github.com/d3va/MVA-Plotly)
 - [volcano](http://d3va.github.io/Plotly/volcano.html)
 - [diamonds](http://d3va.github.io/Plotly/diamonds.html)
 - [heatmap1](http://d3va.github.io/Plotly/heatmap1.html)
